@@ -1,0 +1,15 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Python (if backend is Flask/Django)
+__pycache__/
+venv/
+env/
+
+# Build files
+dist/
+build/
+
+# Private environment variables
+.env
